@@ -134,7 +134,7 @@ lit==0.11.1.dev0
 litecli==1.5.0
 lockfile==0.12.2
 louis==3.17.0
-lxml==4.6.2
+lxml==4.6.3
 MarkupSafe==1.1.1
 matplotlib==3.3.4
 mccabe==0.6.1
