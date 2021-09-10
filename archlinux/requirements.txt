@@ -248,7 +248,7 @@ smmap==3.0.5
 sniffio==1.2.0
 soupsieve==2.2
 speedtest-cli==2.1.2
-sqlparse==0.4.1
+sqlparse==0.4.2
 sshuttle==1.0.5
 stevedore==3.3.0
 streamlink==2.0.0
