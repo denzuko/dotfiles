@@ -167,7 +167,7 @@ pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.1.0
 pip-tools==6.0.0
-pipenv==2020.11.15
+pipenv==2022.1.8
 pkginfo==1.7.0
 placebo==0.9.0
 pluggy==0.13.1
