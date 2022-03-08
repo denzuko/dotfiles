@@ -86,7 +86,7 @@ greenlet==1.0.0
 hjson==3.0.2
 html2text==2020.1.16
 html5lib==1.1
-httpie==2.4.0
+httpie==3.1.0
 httplib2==0.19.0
 hyperlink==21.0.0
 identify==2.1.2
