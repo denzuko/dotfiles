@@ -172,7 +172,7 @@ pkginfo==1.7.0
 placebo==0.9.0
 pluggy==0.13.1
 ply==3.11
-poetry==1.1.5
+poetry==1.1.9
 poetry-core==1.0.2
 pre-commit==2.11.1
 progressbar2==3.53.1
