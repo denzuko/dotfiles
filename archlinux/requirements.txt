@@ -273,7 +273,7 @@ truffleHogRegexes==0.0.7
 Twisted==21.2.0
 typed-ast==1.4.2
 typing-extensions==3.7.4.3
-ujson==4.0.2
+ujson==5.2.0
 uritemplate==3.0.1
 urllib3==1.26.3
 vimiv==0.9.1
