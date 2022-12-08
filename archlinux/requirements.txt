@@ -28,7 +28,7 @@ CacheControl==0.12.6
 cached-property==1.5.2
 cachetools==4.2.1
 cachy==0.3.0
-certifi==2020.12.5
+certifi==2022.12.7
 cffi==1.14.5
 cfgv==3.2.0
 cfn-flip==1.2.3
